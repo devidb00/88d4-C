@@ -26,7 +26,15 @@ npm install npm@latest -g
 ### Installation
 
 ```sh
-    git clone https://github.com/devidb00/88d4-C.git
-    cd 88d4-C
-    npm install
+git clone https://github.com/devidb00/88d4-C.git
+
+cd 88d4-C
+npm install
+npm run dev
 ```
+
+Access the web application at http://localhost:3000.
+
+### Contact
+
+tarikidb.dev@gmail.com
