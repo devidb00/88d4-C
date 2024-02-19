@@ -1,6 +1,6 @@
-# E-Commerce Web Application
+# 88d4-C
 
-Welcome to the GitHub repository for our NextJS-based e-commerce web application. This project is designed to provide a robust, scalable, and user-friendly online shopping platform. With NextJS at its core, the application offers server-side rendering and static generation capabilities to ensure optimal performance and SEO efficiency.
+This project is designed to provide a robust, scalable, and user-friendly online shopping platform. With NextJS at its core, the application offers server-side rendering and static generation capabilities to ensure optimal performance and SEO efficiency.
 
 ## Features
 
